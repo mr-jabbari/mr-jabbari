@@ -46,19 +46,35 @@ src="https://img.shields.io/github/followers/mr-jabbari?logo=github&style=for-th
 ### Socials
 
 <p align="left">
-<a href="https://www.facebook.com/Jabbari79" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://github.com/mr-jabbari" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.instagram.com/Jabbari79" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://twitter.com/h_jabbari79" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://t.me/jabbari79" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="32" height="32" /></a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/Jabbari79" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="32" height="32" />
+</a>
+<!-- GitHub (Color Version) -->
+<a href="https://github.com/mr-jabbari" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="32" height="32" />
+</a>
+<!-- Instagram -->
+<a href="https://www.instagram.com/Jabbari79" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" height="32" />
+</a>
+<!-- X / Twitter (Color Version) -->
+<a href="https://twitter.com/h_jabbari79" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="32" height="32" />
+</a>
+<!-- Telegram (Color Version) -->
+<a href="https://t.me/jabbari79" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" />
 </a>
 </p>
+
 
 ---
 
 ### Tools I Use Daily
 <p>
-<img src="https://skillicons.dev/icons?i=pycharm,git,github,postman" height="40" />
+<img src="https://skillicons.dev/icons?i=pycharm,github,postman,datagrip,phpstorm" height="40" />
 </p>
 
 ---
