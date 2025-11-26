@@ -1,19 +1,18 @@
 Hi there! 👋 My name is Hasan Jabbari
 ======================================
 
-Backend Developer | Python (FP) • Go Fiber • Laravel (OOP)
+Backend Developer | Python (FP) • Go Fiber (FP) • Laravel (OOP)
 ----------------------------------------------------------
 
 I am a backend developer with a strong focus on **Functional Programming** in Python and Go.  
 I primarily build APIs and microservices using **FastAPI**, **Flask**, and **Fiber**, and I also work with **Laravel** (OOP) for project-based requirements.  
 My background started from security and AI using TensorFlow and Scikit-Learn, but today my main specialty is **designing scalable backend systems**.
 
-* 🌍  Based on planet Earth  
+* 🌍  Based on planet IRAN
 * ✉️  Contact: [htjabbari@gmail.com](mailto:htjabbari@gmail.com)  
-* 💼  Focused on Backend Engineering (Python FP, Go, Laravel OOP)  
-* 🧠  Currently improving expertise in distributed systems & system design  
+* 💼  Focused on Backend Engineering (Scalable Functional Rest API)  
+* 🧠  Currently improving expertise in distributed systems & system design
 * 🤝  Open to collaboration on backend, microservices, and AI-related projects  
-* ⚡  If your project is interesting, I can work with very flexible pricing — but keep it a secret 🤫
 
 <a href="https://www.github.com/mr-jabbari" target="_blank"><img
 src="https://img.shields.io/github/followers/mr-jabbari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -53,20 +52,6 @@ src="https://img.shields.io/github/followers/mr-jabbari?logo=github&style=for-th
 <a href="https://github.com/mr-jabbari" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/Jabbari79" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://twitter.com/h_jabbari79" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://t.me/jabbari79" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" />
+</a>
 </p>
-
----
-
-### GitHub Stats
-
-<a href="http://www.github.com/mr-jabbari"><img src="https://github-readme-stats.vercel.app/api?username=mr-jabbari&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
-
-<a href="http://www.github.com/mr-jabbari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-jabbari&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/mr-jabbari"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jabbari&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-
----
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/htjabbari1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
