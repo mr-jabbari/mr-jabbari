@@ -46,36 +46,26 @@ src="https://img.shields.io/github/followers/mr-jabbari?logo=github&style=for-th
 ### Socials
 
 <p align="left">
-
-<!-- Facebook -->
-<a href="https://www.facebook.com/Jabbari79" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="32" height="32" />
-</a>
-<!-- GitHub (Color Version) -->
-<a href="https://github.com/mr-jabbari" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="32" height="32" />
-</a>
-<!-- Instagram -->
-<a href="https://www.instagram.com/Jabbari79" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" height="32" />
-</a>
-<!-- X / Twitter (Color Version) -->
-<a href="https://twitter.com/h_jabbari79" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="32" height="32" />
-</a>
-<!-- Telegram (Color Version) -->
-<a href="https://t.me/jabbari79" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" />
-</a>
+<a href="https://www.facebook.com/Jabbari79" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="32" height="32" /></a>
+<a href="https://github.com/mr-jabbari" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="32" height="32" /></a>
+<a href="https://www.instagram.com/Jabbari79" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" height="32" /></a>
+<a href="https://twitter.com/h_jabbari79" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="32" height="32" /></a>
+<a href="https://t.me/jabbari79" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" /></a>
 </p>
 
 
 ---
 
 ### Tools I Use Daily
-<p>
-<img src="https://skillicons.dev/icons?i=pycharm,github,postman,datagrip,phpstorm" height="40" />
+<p> 
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" height="40" />
+<img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" height="40" />
+<img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" height="40" />
+<img src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" height="40" />
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+<img src="https://skillicons.dev/icons?i=postman" height="40" />
 </p>
+
 
 ---
 
