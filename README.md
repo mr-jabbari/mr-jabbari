@@ -9,7 +9,7 @@ I primarily build APIs and microservices using **FastAPI**, **Flask**, and **Fib
 My background started from security and AI using TensorFlow and Scikit-Learn, but today my main specialty is **designing scalable backend systems**.
 
 * 🌍  Based on planet IRAN
-* ✉️  Contact: [htjabbari@gmail.com](mailto:htjabbari@gmail.com)  
+* ✉️  Contact: [Telegram](https://t.me/jabbari79)  
 * 💼  Focused on Backend Engineering (Scalable Functional Rest API)  
 * 🧠  Currently improving expertise in distributed systems & system design
 * 🤝  Open to collaboration on backend, microservices, and AI-related projects  
