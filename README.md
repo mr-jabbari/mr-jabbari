@@ -1,4 +1,4 @@
-Hi there! 👋 it is Hasan
+Hi there! 👋
 ======================================
 
 Backend Developer | FP: Python (FastAPI, Flask) & Go (Fiber) • OOP: PHP (Laravel)
