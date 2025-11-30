@@ -80,3 +80,4 @@ src="https://img.shields.io/github/followers/mr-jabbari?logo=github&style=for-th
 ## 🎯 What I’m Focusing On Right Now
 
 - [farawin](https://farawin.com/app)
+- [والعصر](https://landing.valasr.app)
