@@ -1,4 +1,4 @@
-Hi there! 👋 My name is Hasan Jabbari
+Hi there! 👋 it is Hasan
 ======================================
 
 Backend Developer | FP: Python (FastAPI, Flask) & Go (Fiber) • OOP: PHP (Laravel)
