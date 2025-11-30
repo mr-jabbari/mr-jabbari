@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/mr-jabbari?logo=github&style=for-th
 <p align="left">
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 </p>
 
 #### Frameworks & Technologies
@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/mr-jabbari?logo=github&style=for-th
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40" /></a>
 <a href="https://gofiber.io/" target="_blank"><img src="https://skillicons.dev/icons?i=go" width="40" height="40" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
 #### Databases & DevOps
@@ -81,3 +81,4 @@ src="https://img.shields.io/github/followers/mr-jabbari?logo=github&style=for-th
 
 - [farawin](https://farawin.com/app)
 - [والعصر](https://landing.valasr.app)
+- [پارک آزادی](https://myket.ir/app/com.peakypie.azadipark)
