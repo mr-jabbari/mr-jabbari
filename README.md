@@ -1,14 +1,14 @@
 Hi there! 👋 My name is Hasan Jabbari
 ======================================
 
-Backend Developer | Python (FP) • Go Fiber (FP) • Laravel (OOP)
+Backend Developer | FP: Python (FastAPI, Flask) & Go (Fiber) • OOP: PHP (Laravel)
 ----------------------------------------------------------
 
 I am a backend developer with a strong focus on **Functional Programming** in Python and Go.  
 I primarily build APIs and microservices using **FastAPI**, **Flask**, and **Fiber**, and I also work with **Laravel** (OOP) for project-based requirements.  
 My background started from security and AI using TensorFlow and Scikit-Learn, but today my main specialty is **designing scalable backend systems**.
 
-* 🌍  Based on planet IRAN
+* 🌍  Located in Mashhad IRAN
 * ✉️  Contact: [Telegram](https://t.me/jabbari79)  
 * 💼  Focused on Backend Engineering (Scalable Functional Rest API)  
 * 🧠  Currently improving expertise in distributed systems & system design
